@@ -1,0 +1,12 @@
+C:\Users\MSI-PC\source\repos\AuthJWT\Auth.Common\bin\Debug\net5.0\Auth.Common.deps.json
+C:\Users\MSI-PC\source\repos\AuthJWT\Auth.Common\bin\Debug\net5.0\Auth.Common.dll
+C:\Users\MSI-PC\source\repos\AuthJWT\Auth.Common\bin\Debug\net5.0\ref\Auth.Common.dll
+C:\Users\MSI-PC\source\repos\AuthJWT\Auth.Common\bin\Debug\net5.0\Auth.Common.pdb
+C:\Users\MSI-PC\source\repos\AuthJWT\Auth.Common\obj\Debug\net5.0\Auth.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-PC\source\repos\AuthJWT\Auth.Common\obj\Debug\net5.0\Auth.Common.AssemblyInfoInputs.cache
+C:\Users\MSI-PC\source\repos\AuthJWT\Auth.Common\obj\Debug\net5.0\Auth.Common.AssemblyInfo.cs
+C:\Users\MSI-PC\source\repos\AuthJWT\Auth.Common\obj\Debug\net5.0\Auth.Common.csproj.CoreCompileInputs.cache
+C:\Users\MSI-PC\source\repos\AuthJWT\Auth.Common\obj\Debug\net5.0\Auth.Common.dll
+C:\Users\MSI-PC\source\repos\AuthJWT\Auth.Common\obj\Debug\net5.0\ref\Auth.Common.dll
+C:\Users\MSI-PC\source\repos\AuthJWT\Auth.Common\obj\Debug\net5.0\Auth.Common.pdb
+C:\Users\MSI-PC\source\repos\AuthJWT\Auth.Common\obj\Debug\net5.0\Auth.Common.csprojAssemblyReference.cache
